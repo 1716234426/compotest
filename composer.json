@@ -1,0 +1,19 @@
+{
+    "name": "yangzhiyi/compotest",
+    "description": "compser001234",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Yangzhiyi\\Compotest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yangzhiyi",
+            "email": "1716234426@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
